@@ -2,11 +2,10 @@
 
 # Stacks
 
-- Python
-
-- R
-
-- Oracle, MySQL
+![python badge](https://img.shields.io/badge/-PYTHON-%23F7DF1E?style=flat-square&logo=Python&logoColor=white&color=3776AB)
+![R badge](https://img.shields.io/badge/-R-%23F7DF1E?style=flat-square&logo=r&logoColor=white&color=276DC3)
+![Oracle badge](https://img.shields.io/badge/-Oracle-%23F7DF1E?style=flat-square&logo=oracle&logoColor=white&color=F80000)
+![MySQL badge](https://img.shields.io/badge/-MySQL-%23F7DF1E?style=flat-square&logo=mysql&logoColor=white&color=4479A1)
 
 # Certificate
 
