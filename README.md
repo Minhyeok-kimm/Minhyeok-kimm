@@ -6,8 +6,11 @@
 
 - R
 
-- SQL
+- Oracle, MySQL
 
+# Certificate
+
+- ADsP(데이터분석준전문가)
 
 # Education
 
