@@ -8,6 +8,8 @@
 
 # 새로운 것들을 배우고 도전하는 김민혁입니다.
 
+<br/>
+
 # Stacks
 
 ![python badge](https://img.shields.io/badge/-PYTHON-%23F7DF1E?style=flat-square&logo=Python&logoColor=white&color=3776AB)
@@ -15,9 +17,15 @@
 ![Oracle badge](https://img.shields.io/badge/-Oracle-%23F7DF1E?style=flat-square&logo=oracle&logoColor=white&color=F80000)
 ![MySQL badge](https://img.shields.io/badge/-MySQL-%23F7DF1E?style=flat-square&logo=mysql&logoColor=white&color=4479A1)
 
+
+<br/>
+
+
 # Certificate
 
 - ADsP(데이터분석준전문가)
+
+<br/>
 
 <div align=center>
 
