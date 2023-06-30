@@ -20,6 +20,7 @@
 # Certificate
 
 - ADsP(데이터분석준전문가)
+- SQLD
 
 <br/>
 
